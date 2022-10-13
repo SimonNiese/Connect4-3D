@@ -9,3 +9,7 @@ A simple game of 3d connect4 in the terminal
 
 ## Placing pieces
 To place a piece, type the coordinates for x and y, separated with "," i.e. 2,3. The piece will automatically fall to the lowest unoccupied space.
+
+
+## Playing against AI
+To play against the AI, simply type the name for player 2 as AI.
